@@ -1,0 +1,31 @@
+site:
+  title: Software Internals Blogs
+  repo: https://github.com/thisismiller/software-internals-blogs/
+  domain: thisismiller.github.io/software-internals-blogs/
+  self_url: https://thisismiller.github.io/software-internals-blogs/atom.xml
+
+feeds:
+- name: "@eatonphil"
+  url: https://notes.eatonphil.com/rss.xml
+- name: "@justin"
+  url: https://buttondown.com/jaffray/rss
+- name: "@stevan"
+  url: https://stevana.github.io/rss.xml
+- name: "@pkhuong"
+  url: https://pvk.ca/atom.xml
+- name: "@artjom"
+  url: https://artjomplaunov.github.io/feed.xml
+- name: "@miller"
+  url: https://transactional.blog/feed.xml
+- name: "@v"
+  url: https://avi.im/blag/index.xml
+- name: "@jamii"
+  url: https://www.scattered-thoughts.net/atom.xml
+- name: "@alperen"
+  url: https://alperenkeles.com/atom.xml
+- name: "@tim"
+  url: https://timmastny.com/index.xml
+- name: "@jenny"
+  url: https://jennyjams.net/atom.xml
+- name: "@uds5501"
+  url: https://uds5501.github.io/mindpalace/feed.xml

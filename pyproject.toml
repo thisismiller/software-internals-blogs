@@ -1,0 +1,12 @@
+[project]
+name = "software-internals-blogs"
+version = "0.1.0"
+description = "Aggregator for blogs from Software Internals discord folk"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "feed-aggregator",
+]
+
+[tool.uv.sources]
+feed-aggregator = { git = "https://github.com/thisismiller/feed-aggregator.git" }
