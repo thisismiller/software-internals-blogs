@@ -31,3 +31,7 @@ feeds:
   url: https://uds5501.github.io/mindpalace/feed.xml
 - name: "@arctan"
   url: https://quanttype.net/index.xml
+- name: "@rambo6840"
+  url: https://awesomekling.github.io/feed.xml
+- name: "@modulo_andrew"
+  url: https://www.jandrewrogers.com/atom.xml
