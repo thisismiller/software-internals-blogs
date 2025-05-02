@@ -29,3 +29,5 @@ feeds:
   url: https://jennyjams.net/atom.xml
 - name: "@uds5501"
   url: https://uds5501.github.io/mindpalace/feed.xml
+- name: "@arctan"
+  url: https://quanttype.net/index.xml
