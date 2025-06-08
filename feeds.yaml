@@ -35,3 +35,5 @@ feeds:
   url: https://awesomekling.github.io/feed.xml
 - name: "@modulo_andrew"
   url: https://www.jandrewrogers.com/atom.xml
+- name: "@redixhumayun"
+  url: https://redixhumayun.github.io/feed.xml
