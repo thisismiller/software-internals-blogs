@@ -37,3 +37,7 @@ feeds:
   url: https://www.jandrewrogers.com/atom.xml
 - name: "@redixhumayun"
   url: https://redixhumayun.github.io/feed.xml
+- name: "@snowytrees"
+  url: https://snowytrees.dev/blog/rss.xml
+- name: "@foamdino"
+  url: https://medium.com/feed/thg-tech-blog
